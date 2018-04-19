@@ -1,0 +1,2 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/Downloads/Project3-my_new_branch/app/controllers/AuthAdmin.java:9:1: controllers.AuthAdmin is not abstract and does not override abstract method call(play.mvc.Http.Context) in play.mvc.Action[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class AuthAdmin extends Action.Simple {[0m
